@@ -1,8 +1,33 @@
-# raspberry-wifi-conf
-
-A Node application which makes connecting your RaspberryPi to your home wifi easier.
+<p align="center">
+  <a href="https://github.com/Kibibit/announce-it" target="blank"><img src="http://kibibit.io/kibibit-assets/hot-pot.svg" width="150" ></a>
+  <h2 align="center">
+    @kibibit/hot-pot
+  </h2>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@kibibit/announce-it"><img src="https://img.shields.io/npm/v/@kibibit/announce-it/latest.svg?style=for-the-badge&logo=npm&color=CB3837"></a>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@kibibit/announce-it"><img src="https://img.shields.io/npm/v/@kibibit/announce-it/next.svg?style=flat-square&logo=npm&color=CB3837"></a>
+  <a href="https://travis-ci.org/Kibibit/announce-it">
+  <img src="https://travis-ci.org/Kibibit/announce-it.svg?branch=master">
+  </a>
+  <a href="https://coveralls.io/github/Kibibit/announce-itbranch=master">
+  <img src="https://coveralls.io/repos/github/Kibibit/announce-it/badge.svg?branch=master">
+  </a>
+  <a href="http://greenkeeper.io">
+    <img src="https://badges.greenkeeper.io/Kibibit/announce-it.svg">
+  </a>
+  <a href="https://salt.bountysource.com/teams/kibibit"><img src="https://img.shields.io/endpoint.svg?url=https://monthly-salt.now.sh/kibibit&style=flat-square"></a>
+</p>
+<p align="center">
+  A Node application which helps you onboard devices into a network without a screen
+</p>
+<hr>
 
 Tested on Stretch and Raspberrt Pi 3
+
+  Based on [this project](https://github.com/sabhiram/raspberry-wifi-conf). We basically wanted to improve upon this solution by prettifying it and making it work for other platforms
 
 ## RPI 4 Note:
 
@@ -113,3 +138,8 @@ Step 3: Select your home (or whatever) network, punch in the wifi passcode if an
 
 ## Testing
 
+## License
+
+MIT © 2019 Neil Kalman neilkalman@gmail.com
+
+<div>Icons made by <a href="https://www.freepik.com/?__hstc=57440181.01962570f5556be13348a201c85fcdf4.1562144463167.1562144463167.1562144463167.1&__hssc=57440181.1.1562144463168&__hsfp=1026563361" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>

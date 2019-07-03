@@ -1,5 +1,5 @@
 {
-  "name": "raspberry-wifi-conf",
+  "name": "@kibibit/hot-pot",
   "version": "0.0.1",
   "description": "Node RPI Wifi Configuration Application",
   "main": "server.js",
