@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Kibibit/announce-it" target="blank"><img src="http://kibibit.io/kibibit-assets/hot-pot.svg" width="150" ></a>
+  <a href="https://github.com/Kibibit/hot-pot" target="blank"><img src="http://kibibit.io/kibibit-assets/hot-pot.svg" width="150" ></a>
   <h2 align="center">
     @kibibit/hot-pot
   </h2>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.npmjs.com/package/@kibibit/announce-it"><img src="https://img.shields.io/npm/v/@kibibit/announce-it/latest.svg?style=for-the-badge&logo=npm&color=CB3837"></a>
 </p>
 <p align="center">
@@ -19,7 +19,7 @@
     <img src="https://badges.greenkeeper.io/Kibibit/announce-it.svg">
   </a>
   <a href="https://salt.bountysource.com/teams/kibibit"><img src="https://img.shields.io/endpoint.svg?url=https://monthly-salt.now.sh/kibibit&style=flat-square"></a>
-</p>
+</p> -->
 <p align="center">
   A Node application which helps you onboard devices into a network without a screen
 </p>
